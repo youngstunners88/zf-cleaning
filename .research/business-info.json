@@ -1,0 +1,20 @@
+{
+  "businessName": "Zf Cleaning",
+  "category": "cleaning",
+  "brandColors": {
+    "primary": "#0984E3",
+    "secondary": "#74B9FF",
+    "accent": "#00CEC9",
+    "dark": "#0770C2",
+    "light": "#E8F4FD"
+  },
+  "tagline": "Fresh & Clean Guarantee",
+  "services": [
+    "Residential Cleaning",
+    "Office Cleaning",
+    "Deep Cleaning",
+    "Window Cleaning",
+    "Move-in/Move-out",
+    "Carpet Cleaning"
+  ]
+}
